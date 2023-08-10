@@ -9,6 +9,4 @@ The dataset for TLC Trip Record Data encompasses both yellow and green taxi trip
 The dataset was obtained from:  https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page and more information about the data can be found at: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 # Model
-
-
-
+![image](https://github.com/jzuluaga02/uber-etl-project/assets/114960212/acec3bfd-7f8f-4f74-919b-9e9d1a5175e6)
