@@ -16,6 +16,8 @@ The dataset was obtained from:  https://www.nyc.gov/site/tlc/about/tlc-trip-reco
 
 ●  Implemented Apache Airflow for orchestrating complex data workflows, ensuring seamless task scheduling and efficient data processing. This streamlined approach significantly improved the management of Uber's data pipelines, enhancing overall data reliability and analytical capabilities.
 
+●   Engineered a robust ETL (Extract, Transform, Load) pipeline with a meticulously defined data model, ensuring the seamless flow and transformation of data from diverse sources to a structured format. This tailored ETL architecture optimized data integration processes, promoting consistency, and enabling comprehensive analytics with a well-defined and scalable data model.
+
 
 # Model
 ![image](https://github.com/jzuluaga02/uber-etl-project/assets/114960212/acec3bfd-7f8f-4f74-919b-9e9d1a5175e6)
